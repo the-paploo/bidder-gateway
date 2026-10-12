@@ -1,0 +1,6 @@
+pools:
+  bidders-us-east-1: {partners: 14}
+  bidders-eu-west-1: {partners: 11}
+canary:
+  region: us-east
+  pool: bidders-us-east-2
