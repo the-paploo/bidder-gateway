@@ -1,0 +1,3 @@
+# bidder-gateway defaults
+tmax_ms: 250
+max_conns_per_partner: 256
